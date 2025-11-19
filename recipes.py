@@ -7,5 +7,5 @@ recipes = {
 
 """ Notes
 - Turn off oven after use.
-
+- Wash hands before preparing food
 """
