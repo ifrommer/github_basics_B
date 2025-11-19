@@ -4,3 +4,8 @@ recipes = {
     "apple pie": ["apples", "flour", "maple syrup"],
     "grilled cheese":["cheese","bread","butter"]
 }
+
+""" Notes
+- Turn off oven after use.
+
+"""
