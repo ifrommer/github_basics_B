@@ -1,7 +1,5 @@
 recipes = {
-    "apple pie": ["apples", "flour", "sugar"],
     "pancakes": ["flour", "milk", "eggs"],
-    "hummus": ["chick peas","garlic", "olive oil"]
+    "hummus": ["chick peas","garlic", "olive oil"],
+    "apple pie": ["apples", "flour", "maple syrup"],
 }
-# the other Dr. Frommer was here
-# Prof. Frommer was here
