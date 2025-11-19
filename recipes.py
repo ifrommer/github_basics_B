@@ -1,11 +1,4 @@
 recipes = {
-    "pancakes": ["flour", "milk", "eggs"],
-    "hummus": ["chick peas","garlic", "olive oil"],
-    "apple pie": ["apples", "flour", "maple syrup"],
-    "grilled cheese":["cheese","bread","butter"]
+    "apple pie": ["apples", "flour", "sugar"],
+    "pancakes": ["flour", "milk", "eggs"]
 }
-
-""" Notes
-- Turn off oven after use.
-- Wash hands before preparing food
-"""
