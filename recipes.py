@@ -3,5 +3,6 @@ recipes = {
     "pancakes": ["flour", "milk", "eggs"],
     "smoothie": ["banana", "strawberries", "yogurt", "milk"]
     "Sushi": ["Rice", "Sugar", "Rice Vinegar", "Avocado", "Seaweed", "Cream Cheese", "Imitation Crab"],
-    "Latte": ["Coffee Beans", "Water", "Milk"]
+    "Latte": ["Coffee Beans", "Water", "Milk"],
+    "BLT": ["Bacon", "Lettuce", "Tomato", "Avocado"]
 }
