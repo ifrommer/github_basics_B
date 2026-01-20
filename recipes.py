@@ -4,4 +4,5 @@ recipes = {
     "smoothie": ["banana", "strawberries", "yogurt", "milk"]
     "Sushi": ["Rice", "Sugar", "Rice Vinegar", "Avocado", "Seaweed", "Cream Cheese", "Imitation Crab"],
     "Latte": ["Coffee Beans", "Water", "Milk"]
+    "Bread": ["Flour", "Yeast", "Water", "Salt"]
 }
