@@ -6,4 +6,5 @@ recipes = {
     "Latte": ["Coffee Beans", "Water", "Milk"],
     "BLT": ["Bacon", "Lettuce", "Tomato", "Avocado"],
     "Bread": ["Flour", "Yeast", "Water", "Salt"]
+    "Taco": ["Meat", "Cheese"]
 }
